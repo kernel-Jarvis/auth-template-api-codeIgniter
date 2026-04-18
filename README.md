@@ -495,5 +495,4 @@ I developed an auth template for frontend that consuming this API | [Auth System
 </div>
 
 </br></br>
-Made with :heart: by Jabes Enock
 
